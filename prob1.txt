@@ -1,0 +1,17 @@
+1:	0.125
+2:	0.0546875
+3:	0.0258484
+4:	0.0125901
+5:	0.00621581
+6:	0.00308859
+7:	0.00153952
+8:	0.000768576
+9:	0.000383993
+10:	0.000191923
+
+Because just 10 values were not enough to
+confidently determine a limit, the first
+10,000 terms of the sequence were calculated
+rather than merely the first 10. In the list of
+10,000 terms, the limit as x approaches infinity
+can clearly be seen to be 0.
